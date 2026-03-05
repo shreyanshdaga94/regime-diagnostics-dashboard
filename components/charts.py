@@ -26,7 +26,7 @@ def build_donut_chart(regime_stats: pd.DataFrame) -> go.Figure:
     )])
     fig.update_layout(
         margin=dict(t=30, b=30, l=30, r=30),
-        height=400,
+        height=450,
         showlegend=False,
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
