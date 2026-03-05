@@ -1,0 +1,1758 @@
+date,volatility,trend,participation,volume,raw_regime,confirmed_regime,is_canonical,distance
+2018-01-01,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-02,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-03,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-04,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-05,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-08,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-09,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-10,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-11,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-12,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-15,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-16,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-17,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-18,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-19,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-22,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-23,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-24,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-25,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-29,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-30,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-01-31,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-01,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-02,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-05,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-06,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-07,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-08,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-09,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-12,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-14,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-15,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-16,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-19,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-20,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-21,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-22,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-23,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-26,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-27,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-02-28,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-01,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-05,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-06,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-07,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-08,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-09,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-12,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-13,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-14,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-15,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-16,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-19,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-20,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-21,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-22,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-23,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-26,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-27,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-03-28,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-02,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-03,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-04,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-05,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-06,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-09,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-10,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-11,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-12,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-13,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-16,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-17,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-18,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-19,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-20,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-23,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-24,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-25,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-26,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-27,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-04-30,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-02,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-03,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-04,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-07,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-08,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-09,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-10,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-11,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-14,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-15,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-16,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-17,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-18,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-21,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-22,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-23,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-24,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-25,Moderate,Mild Down,Unclassified,Normal,Volatile Chop,Volatile Chop,False,0.175
+2018-05-28,Moderate,Mild Down,Healing,Normal,Slow Bleed,Volatile Chop,False,0.1125
+2018-05-29,Moderate,Mild Down,Healing,Normal,Slow Bleed,Volatile Chop,False,0.1125
+2018-05-30,Moderate,Mild Down,Healing,Normal,Slow Bleed,Volatile Chop,False,0.1125
+2018-05-31,Moderate,Mild Down,Healing,Normal,Slow Bleed,Volatile Chop,False,0.1125
+2018-06-01,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-04,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-05,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-06,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-07,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-08,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-11,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-12,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-13,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-14,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-15,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-18,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-19,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-20,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-21,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-22,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-25,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-26,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-27,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-28,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-06-29,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-02,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-03,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-04,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-05,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-06,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-09,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-10,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-11,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-12,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-13,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-16,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-17,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-18,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-19,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-20,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-23,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-24,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-25,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-26,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-27,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-30,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-07-31,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-01,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-02,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-03,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-06,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-07,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-08,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-09,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-10,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-13,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-14,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-16,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-17,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-20,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-21,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-23,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-24,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-27,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-28,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-29,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-30,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-08-31,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-03,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-04,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-05,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-06,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-07,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-10,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-11,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-12,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-14,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-17,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-18,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-19,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-21,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2018-09-24,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2018-09-25,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2018-09-26,Moderate,Mild Down,Broad,Normal,Slow Bleed,Volatile Chop,False,0.1125
+2018-09-27,Moderate,Mild Down,Broad,Normal,Slow Bleed,Volatile Chop,False,0.1125
+2018-09-28,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2018-10-01,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2018-10-03,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2018-10-04,High Stable,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,True,0.0
+2018-10-05,High Stable,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,True,0.0
+2018-10-08,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-09,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-10,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-11,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-12,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-15,High Stable,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,True,0.0
+2018-10-16,High Stable,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,True,0.0
+2018-10-17,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Volatile Chop,False,0.1
+2018-10-19,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-22,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-23,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-24,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-25,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-26,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-29,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-30,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-10-31,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-11-01,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-11-02,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-05,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-11-06,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-07,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-09,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-12,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-11-13,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-14,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-15,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-16,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-19,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-11-20,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-11-21,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-11-22,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-11-26,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-11-27,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-28,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-29,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-11-30,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-12-03,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-04,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-05,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-06,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-07,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-10,High Stable,Mild Down,Narrowing,Normal,Slow Bleed,Slow Bleed,False,0.1
+2018-12-11,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-12-12,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-12-13,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-12-14,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Slow Bleed,False,0.125
+2018-12-17,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-18,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-19,High Chaotic,Flat,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-20,High Chaotic,Flat,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-21,High Chaotic,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,True,0.0
+2018-12-24,High Chaotic,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,True,0.0
+2018-12-26,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-27,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-28,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2018-12-31,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-01-01,High Chaotic,Flat,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-01-02,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-01-03,High Chaotic,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,True,0.0
+2019-01-04,High Chaotic,Mild Down,Healing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-01-07,High Chaotic,Mild Down,Healing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-01-08,High Chaotic,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,True,0.0
+2019-01-09,High Chaotic,Mild Down,Broad,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-01-10,Moderate,Mild Down,Broad,Normal,Slow Bleed,Volatile Chop,False,0.1125
+2019-01-11,Moderate,Mild Down,Broad,Normal,Slow Bleed,Volatile Chop,False,0.1125
+2019-01-14,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2019-01-15,Moderate,Flat,Broad,Normal,Quiet Rotation,Volatile Chop,False,0.125
+2019-01-16,Moderate,Flat,Broad,Normal,Quiet Rotation,Volatile Chop,False,0.125
+2019-01-17,Moderate,Flat,Broad,Normal,Quiet Rotation,Volatile Chop,False,0.125
+2019-01-18,Moderate,Flat,Broad,Normal,Quiet Rotation,Volatile Chop,False,0.125
+2019-01-21,Moderate,Flat,Healing,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2019-01-22,Moderate,Flat,Healing,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2019-01-23,Moderate,Mild Down,Healing,Normal,Slow Bleed,Quiet Rotation,False,0.1125
+2019-01-24,Moderate,Mild Down,Healing,Normal,Slow Bleed,Quiet Rotation,False,0.1125
+2019-01-25,Moderate,Mild Down,Healing,Normal,Slow Bleed,Quiet Rotation,False,0.1125
+2019-01-28,Moderate,Mild Down,Healing,Normal,Slow Bleed,Quiet Rotation,False,0.1125
+2019-01-29,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2019-01-30,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2019-01-31,Moderate,Mild Down,Healing,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2019-02-01,Moderate,Flat,Broad,Normal,Quiet Rotation,Slow Bleed,False,0.125
+2019-02-04,Moderate,Flat,Healing,Normal,Quiet Rotation,Slow Bleed,False,0.125
+2019-02-05,Moderate,Flat,Divergent,Normal,Quiet Rotation,Slow Bleed,True,0.0
+2019-02-06,Moderate,Flat,Healing,Normal,Quiet Rotation,Slow Bleed,False,0.125
+2019-02-07,Moderate,Flat,Healing,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2019-02-08,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Quiet Rotation,False,0.05
+2019-02-11,Moderate,Flat,Divergent,Normal,Quiet Rotation,Quiet Rotation,True,0.0
+2019-02-12,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Quiet Rotation,False,0.05
+2019-02-13,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Quiet Rotation,False,0.05
+2019-02-14,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Quiet Rotation,False,0.05
+2019-02-15,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Quiet Rotation,False,0.05
+2019-02-18,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2019-02-19,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2019-02-20,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2019-02-21,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2019-02-22,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2019-02-25,Moderate,Mild Down,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.05
+2019-02-26,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2019-02-27,Moderate,Mild Down,Broad,Normal,Slow Bleed,Slow Bleed,False,0.1125
+2019-02-28,Moderate,Mild Down,Divergent,Foreign-Led,Volatile Chop,Slow Bleed,False,0.15000000000000002
+2019-03-01,Moderate,Mild Down,Broad,Foreign-Led,Goldilocks,Slow Bleed,False,0.225
+2019-03-05,Moderate,Mild Down,Broad,Foreign-Led,Goldilocks,Slow Bleed,False,0.225
+2019-03-06,Moderate,Mild Down,Broad,Foreign-Led,Goldilocks,Slow Bleed,False,0.225
+2019-03-07,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Slow Bleed,False,0.1625
+2019-03-08,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2019-03-11,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2019-03-12,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2019-03-13,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2019-03-14,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2019-03-15,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2019-03-18,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2019-03-19,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2019-03-20,Low Rising,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1125
+2019-03-22,Low Rising,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1125
+2019-03-25,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2019-03-26,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2019-03-27,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-03-28,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-03-29,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-01,Low Rising,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.3
+2019-04-02,Low Rising,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.3
+2019-04-03,Low Rising,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.3
+2019-04-04,Low Rising,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.3
+2019-04-05,Low Rising,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.3
+2019-04-08,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-09,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-10,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-11,Low Rising,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.3
+2019-04-12,Low Rising,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.3
+2019-04-15,Low Rising,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.3
+2019-04-16,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-18,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-22,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-23,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-24,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-25,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-26,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-04-30,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-05-02,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-05-03,Low Rising,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.3
+2019-05-06,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-05-07,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-05-08,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2019-05-09,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2019-05-10,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2019-05-13,Moderate,Flat,Divergent,Foreign-Led,Quiet Rotation,Quiet Rotation,False,0.1
+2019-05-14,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2019-05-15,Moderate,Flat,Healing,Foreign-Led,Melt-Up,Melt-Up,False,0.175
+2019-05-16,Moderate,Flat,Healing,Foreign-Led,Melt-Up,Melt-Up,False,0.175
+2019-05-17,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2019-05-20,High Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.4
+2019-05-21,High Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.4
+2019-05-22,High Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.4
+2019-05-23,Moderate,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.35
+2019-05-24,High Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.4
+2019-05-27,High Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.4
+2019-05-28,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Goldilocks,False,0.475
+2019-05-29,High Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.4
+2019-05-30,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Goldilocks,False,0.475
+2019-05-31,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Goldilocks,False,0.475
+2019-06-03,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Goldilocks,False,0.475
+2019-06-04,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Goldilocks,False,0.475
+2019-06-06,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.475
+2019-06-07,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.475
+2019-06-10,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.475
+2019-06-11,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.475
+2019-06-12,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.475
+2019-06-13,High Chaotic,Unclassified,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.475
+2019-06-14,High Chaotic,Mild Up,Broad,Foreign-Led,Goldilocks,Volatile Chop,False,0.25
+2019-06-17,High Chaotic,Flat,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.225
+2019-06-18,High Chaotic,Flat,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.225
+2019-06-19,High Chaotic,Flat,Divergent,Foreign-Led,Volatile Chop,Volatile Chop,False,0.1
+2019-06-20,High Chaotic,Flat,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.225
+2019-06-21,High Chaotic,Flat,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.225
+2019-06-24,High Chaotic,Flat,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.225
+2019-06-25,High Chaotic,Flat,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.225
+2019-06-26,High Chaotic,Flat,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.225
+2019-06-27,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Volatile Chop,False,0.1
+2019-06-28,Moderate,Flat,Divergent,Foreign-Led,Quiet Rotation,Volatile Chop,False,0.1
+2019-07-01,Moderate,Flat,Broad,Normal,Quiet Rotation,Volatile Chop,False,0.125
+2019-07-02,Moderate,Flat,Broad,Normal,Quiet Rotation,Volatile Chop,False,0.125
+2019-07-03,Moderate,Flat,Broad,Normal,Quiet Rotation,Volatile Chop,False,0.125
+2019-07-04,Moderate,Flat,Narrowing,Normal,Compression,Volatile Chop,False,0.1
+2019-07-05,High Chaotic,Flat,Narrowing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-07-08,High Chaotic,Flat,Narrowing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-07-09,High Chaotic,Flat,Narrowing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-07-10,High Chaotic,Flat,Broad Sell-Off,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-07-11,High Chaotic,Flat,Narrowing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-07-12,High Chaotic,Mild Down,Broad Sell-Off,Normal,Crisis,Volatile Chop,False,0.1125
+2019-07-15,High Chaotic,Mild Down,Narrowing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-07-16,High Chaotic,Flat,Narrowing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-07-17,High Chaotic,Flat,Narrowing,Normal,Volatile Chop,Volatile Chop,False,0.125
+2019-07-18,High Chaotic,Mild Down,Broad Sell-Off,Normal,Crisis,Volatile Chop,False,0.1125
+2019-07-19,High Chaotic,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2019-07-22,High Chaotic,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2019-07-23,High Chaotic,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2019-07-24,High Chaotic,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2019-07-25,High Chaotic,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2019-07-26,High Chaotic,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2019-07-29,High Chaotic,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2019-07-30,High Chaotic,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2019-07-31,High Chaotic,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2019-08-01,High Chaotic,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2019-08-02,Moderate,Strong Down,Broad Sell-Off,Normal,Volatile Chop,Crisis,False,0.2375
+2019-08-05,High Decelerating,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1625
+2019-08-06,High Decelerating,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1625
+2019-08-07,High Decelerating,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1625
+2019-08-08,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2019-08-09,High Chaotic,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2019-08-13,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2019-08-14,Moderate,Mild Down,Broad Sell-Off,Normal,Volatile Chop,Crisis,False,0.175
+2019-08-16,Moderate,Mild Down,Broad Sell-Off,Normal,Volatile Chop,Crisis,False,0.175
+2019-08-19,Moderate,Mild Down,Broad Sell-Off,Normal,Volatile Chop,Crisis,False,0.175
+2019-08-20,Moderate,Strong Down,Broad Sell-Off,Normal,Volatile Chop,Crisis,False,0.2375
+2019-08-21,Moderate,Strong Down,Broad Sell-Off,Normal,Volatile Chop,Volatile Chop,False,0.2375
+2019-08-22,Moderate,Strong Down,Broad Sell-Off,Normal,Volatile Chop,Volatile Chop,False,0.2375
+2019-08-23,Moderate,Strong Down,Broad Sell-Off,Normal,Volatile Chop,Volatile Chop,False,0.2375
+2019-08-26,Moderate,Strong Down,Broad Sell-Off,Normal,Volatile Chop,Volatile Chop,False,0.2375
+2019-08-27,Moderate,Strong Down,Broad Sell-Off,Normal,Volatile Chop,Volatile Chop,False,0.2375
+2019-08-28,Moderate,Strong Down,Broad Sell-Off,Normal,Volatile Chop,Volatile Chop,False,0.2375
+2019-08-29,Moderate,Strong Down,Broad Sell-Off,Normal,Volatile Chop,Volatile Chop,False,0.2375
+2019-08-30,Moderate,Strong Down,Broad Sell-Off,Normal,Volatile Chop,Volatile Chop,False,0.2375
+2019-09-03,Moderate,Strong Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.25
+2019-09-04,Moderate,Strong Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.25
+2019-09-05,Moderate,Strong Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.25
+2019-09-06,Moderate,Strong Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.25
+2019-09-09,Moderate,Strong Down,Narrowing,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.0625
+2019-09-11,Moderate,Strong Down,Narrowing,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.0625
+2019-09-12,Moderate,Strong Down,Narrowing,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.0625
+2019-09-13,Moderate,Mild Down,Narrowing,Domestic Absorption,Slow Bleed,Slow Bleed,True,0.0
+2019-09-16,Moderate,Strong Down,Narrowing,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.0625
+2019-09-17,Moderate,Strong Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.25
+2019-09-18,Moderate,Strong Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.25
+2019-09-19,Moderate,Strong Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.25
+2019-09-20,High Stable,Mild Down,Narrowing,Strong Support,Slow Bleed,Slow Bleed,False,0.15000000000000002
+2019-09-23,High Stable,Mild Down,Narrowing,Strong Support,Slow Bleed,Slow Bleed,False,0.15000000000000002
+2019-09-24,High Stable,Mild Down,Narrowing,Strong Support,Slow Bleed,Slow Bleed,False,0.15000000000000002
+2019-09-25,High Stable,Mild Down,Narrowing,Strong Support,Slow Bleed,Slow Bleed,False,0.15000000000000002
+2019-09-26,High Stable,Mild Down,Divergent,Strong Support,Volatile Chop,Slow Bleed,False,0.15
+2019-09-27,High Stable,Mild Down,Narrowing,Strong Support,Slow Bleed,Slow Bleed,False,0.15000000000000002
+2019-09-30,High Stable,Mild Down,Narrowing,Strong Support,Slow Bleed,Slow Bleed,False,0.15000000000000002
+2019-10-01,High Stable,Mild Down,Narrowing,Strong Support,Slow Bleed,Slow Bleed,False,0.15000000000000002
+2019-10-03,High Stable,Mild Down,Narrowing,Strong Support,Slow Bleed,Slow Bleed,False,0.15000000000000002
+2019-10-04,High Stable,Strong Down,Narrowing,Strong Support,Slow Bleed,Slow Bleed,False,0.21250000000000002
+2019-10-07,High Stable,Strong Down,Divergent,Strong Support,Volatile Chop,Slow Bleed,False,0.2125
+2019-10-09,High Stable,Mild Down,Divergent,Strong Support,Volatile Chop,Slow Bleed,False,0.15
+2019-10-10,High Stable,Strong Down,Healing,Strong Support,Slow Bleed,Slow Bleed,False,0.275
+2019-10-11,High Stable,Mild Down,Healing,Strong Support,Slow Bleed,Slow Bleed,False,0.21250000000000002
+2019-10-14,High Stable,Mild Down,Healing,Strong Support,Slow Bleed,Slow Bleed,False,0.21250000000000002
+2019-10-15,High Stable,Mild Down,Healing,Strong Support,Slow Bleed,Slow Bleed,False,0.21250000000000002
+2019-10-16,High Stable,Flat,Divergent,Strong Support,Volatile Chop,Slow Bleed,False,0.15
+2019-10-17,High Stable,Mild Up,Divergent,Strong Support,Volatile Chop,Slow Bleed,False,0.2125
+2019-10-18,High Stable,Unclassified,Healing,Strong Support,Recovery,Slow Bleed,False,0.4
+2019-10-22,High Stable,Mild Up,Broad,Strong Support,Goldilocks,Slow Bleed,False,0.15
+2019-10-23,High Stable,Mild Up,Healing,Strong Support,Recovery,Slow Bleed,False,0.15000000000000002
+2019-10-24,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Slow Bleed,False,0.1
+2019-10-25,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Recovery,False,0.1
+2019-10-27,High Decelerating,Mild Up,Broad,Strong Support,Goldilocks,Recovery,False,0.2
+2019-10-29,High Decelerating,Mild Up,Broad,Strong Support,Goldilocks,Recovery,False,0.2
+2019-10-30,High Decelerating,Mild Up,Broad,Strong Support,Goldilocks,Recovery,False,0.2
+2019-10-31,High Decelerating,Mild Up,Broad,Strong Support,Goldilocks,Recovery,False,0.2
+2019-11-01,High Decelerating,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.2
+2019-11-04,High Decelerating,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.2
+2019-11-05,High Decelerating,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.2
+2019-11-06,High Decelerating,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.2
+2019-11-07,High Decelerating,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.2
+2019-11-08,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Goldilocks,False,0.1
+2019-11-11,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Goldilocks,False,0.1
+2019-11-13,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Recovery,False,0.1
+2019-11-14,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Recovery,False,0.1
+2019-11-15,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Recovery,False,0.1
+2019-11-18,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Recovery,False,0.1
+2019-11-19,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Recovery,False,0.1
+2019-11-20,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Recovery,False,0.1
+2019-11-21,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Recovery,False,0.1
+2019-11-22,High Decelerating,Mild Up,Healing,Strong Support,Recovery,Recovery,False,0.1
+2019-11-25,High Decelerating,Mild Up,Broad,Strong Support,Goldilocks,Recovery,False,0.2
+2019-11-26,Moderate,Mild Up,Healing,Normal,Recovery,Recovery,False,0.1
+2019-11-27,High Decelerating,Mild Up,Healing,Normal,Recovery,Recovery,True,0.0
+2019-11-28,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Recovery,False,0.1875
+2019-11-29,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Recovery,False,0.1875
+2019-12-02,Moderate,Mild Up,Healing,Foreign-Led,Melt-Up,Recovery,False,0.1125
+2019-12-03,Moderate,Mild Up,Healing,Foreign-Led,Melt-Up,Recovery,False,0.1125
+2019-12-04,Moderate,Mild Up,Healing,Foreign-Led,Melt-Up,Recovery,False,0.1125
+2019-12-05,Moderate,Mild Up,Healing,Foreign-Led,Melt-Up,Recovery,False,0.1125
+2019-12-06,High Decelerating,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.1
+2019-12-09,High Decelerating,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.1
+2019-12-10,High Decelerating,Flat,Healing,Foreign-Led,Recovery,Recovery,False,0.1625
+2019-12-11,High Decelerating,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.1
+2019-12-12,High Decelerating,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.1
+2019-12-13,High Decelerating,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.1
+2019-12-16,Moderate,Mild Up,Healing,Strong Support,Melt-Up,Recovery,False,0.1125
+2019-12-17,Moderate,Mild Up,Healing,Strong Support,Melt-Up,Recovery,False,0.1125
+2019-12-18,Moderate,Mild Up,Healing,Strong Support,Melt-Up,Recovery,False,0.1125
+2019-12-19,Low Stable,Mild Up,Healing,Strong Support,Melt-Up,Recovery,False,0.1125
+2019-12-20,Low Stable,Mild Up,Broad,Strong Support,Goldilocks,Recovery,True,0.0
+2019-12-23,Low Stable,Mild Up,Divergent,Strong Support,Goldilocks,Recovery,False,0.125
+2019-12-24,Low Stable,Mild Up,Broad,Strong Support,Goldilocks,Recovery,True,0.0
+2019-12-26,Low Stable,Mild Up,Divergent,Strong Support,Goldilocks,Recovery,False,0.125
+2019-12-27,Low Stable,Mild Up,Divergent,Foreign-Led,Goldilocks,Goldilocks,False,0.125
+2019-12-30,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2019-12-31,Low Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.25
+2020-01-01,Low Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.25
+2020-01-02,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2020-01-03,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2020-01-06,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-07,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-08,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-09,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-10,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-13,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-14,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-15,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-16,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-17,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-20,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-21,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-22,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-23,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-24,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-01-27,Low Rising,Mild Up,Divergent,Foreign-Led,Melt-Up,Goldilocks,False,0.125
+2020-01-28,Low Rising,Flat,Divergent,Foreign-Led,Quiet Rotation,Goldilocks,False,0.15000000000000002
+2020-01-29,Low Rising,Mild Up,Narrowing,Foreign-Led,Melt-Up,Goldilocks,True,0.0
+2020-01-30,Low Rising,Flat,Narrowing,Foreign-Led,Melt-Up,Goldilocks,False,0.0625
+2020-01-31,Low Rising,Flat,Narrowing,Normal,Compression,Goldilocks,False,0.05
+2020-02-01,Moderate,Mild Down,Narrow,Normal,Compression,Goldilocks,False,0.1625
+2020-02-03,Moderate,Mild Down,Narrow,Normal,Compression,Goldilocks,False,0.1625
+2020-02-04,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Goldilocks,False,0.15000000000000002
+2020-02-05,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Goldilocks,False,0.0625
+2020-02-06,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Goldilocks,False,0.0625
+2020-02-07,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Goldilocks,False,0.0625
+2020-02-10,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Goldilocks,False,0.0625
+2020-02-11,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2020-02-12,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2020-02-13,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2020-02-14,Moderate,Flat,Divergent,Normal,Quiet Rotation,Quiet Rotation,True,0.0
+2020-02-17,Moderate,Flat,Narrow,Normal,Compression,Quiet Rotation,False,0.1
+2020-02-18,Moderate,Flat,Narrow,Normal,Compression,Quiet Rotation,False,0.1
+2020-02-19,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2020-02-20,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Quiet Rotation,False,0.15000000000000002
+2020-02-24,Moderate,Flat,Broad Sell-Off,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2020-02-25,Moderate,Flat,Broad Sell-Off,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2020-02-26,Moderate,Mild Down,Broad Sell-Off,Normal,Volatile Chop,Quiet Rotation,False,0.175
+2020-02-27,Moderate,Mild Down,Broad Sell-Off,Normal,Volatile Chop,Quiet Rotation,False,0.175
+2020-02-28,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2020-03-02,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2020-03-03,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-04,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2020-03-05,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-06,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2020-03-09,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-11,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-12,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-13,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-16,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-17,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-18,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-19,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-20,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-23,High Stable,Strong Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.05
+2020-03-24,High Stable,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-03-25,High Stable,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-03-26,High Stable,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-03-27,High Stable,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-03-30,High Stable,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-03-31,High Stable,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-01,High Stable,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-03,High Stable,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-07,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-08,High Stable,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-09,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-13,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-15,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-16,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-17,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-20,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-21,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-22,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-23,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-24,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-27,High Chaotic,Strong Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2
+2020-04-28,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-04-29,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-04-30,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-04,High Stable,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-05,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-06,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-07,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-08,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-11,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-12,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-13,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-14,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-15,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-18,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-19,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-20,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-21,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-22,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-26,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-27,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-28,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-05-29,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-06-01,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-06-02,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-06-03,High Chaotic,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2020-06-04,High Chaotic,Strong Down,Divergent,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.1125
+2020-06-05,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-08,High Chaotic,Strong Down,Divergent,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.1125
+2020-06-09,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-10,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-11,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-12,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-15,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-16,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-17,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-18,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-19,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-22,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-23,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-24,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-25,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-26,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-29,High Chaotic,Strong Down,Healing,Domestic Absorption,Crisis,Crisis,False,0.225
+2020-06-30,High Chaotic,Strong Down,Healing,Foreign-Led,Crisis,Crisis,False,0.275
+2020-07-01,High Chaotic,Strong Down,Healing,Foreign-Led,Crisis,Crisis,False,0.275
+2020-07-02,High Chaotic,Strong Down,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.2875
+2020-07-03,High Chaotic,Strong Down,Healing,Foreign-Led,Crisis,Volatile Chop,False,0.275
+2020-07-06,High Decelerating,Mild Down,Broad,Foreign-Led,Volatile Chop,Volatile Chop,False,0.275
+2020-07-07,Moderate,Mild Down,Broad,Foreign-Led,Goldilocks,Volatile Chop,False,0.225
+2020-07-08,Moderate,Mild Down,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.225
+2020-07-09,Moderate,Mild Down,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.225
+2020-07-10,Moderate,Mild Down,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.225
+2020-07-13,Moderate,Mild Down,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.225
+2020-07-14,Moderate,Strong Down,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.2875
+2020-07-15,Moderate,Strong Down,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.2875
+2020-07-16,Moderate,Mild Down,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.225
+2020-07-17,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-07-20,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-07-21,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-07-22,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-07-23,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-07-24,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-07-27,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-07-28,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-07-29,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-07-30,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-07-31,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-08-03,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-08-04,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-08-05,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-08-06,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-08-07,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-10,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-11,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-12,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-13,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-14,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-17,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-18,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-19,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-20,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-21,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-24,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-25,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-26,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-08-27,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2020-08-28,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2020-08-31,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-09-01,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-09-02,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-09-03,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-04,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-09-07,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-08,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-09,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-10,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-11,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-14,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-15,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-16,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-17,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-18,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-09-21,Low Rising,Mild Up,Divergent,Foreign-Led,Melt-Up,Goldilocks,False,0.125
+2020-09-22,Low Rising,Mild Up,Divergent,Foreign-Led,Melt-Up,Goldilocks,False,0.125
+2020-09-23,Low Rising,Mild Up,Divergent,Foreign-Led,Melt-Up,Goldilocks,False,0.125
+2020-09-24,Moderate,Flat,Narrowing,Foreign-Led,Melt-Up,Goldilocks,False,0.1125
+2020-09-25,Moderate,Flat,Divergent,Foreign-Led,Quiet Rotation,Goldilocks,False,0.1
+2020-09-28,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1625
+2020-09-29,Moderate,Flat,Divergent,Foreign-Led,Quiet Rotation,Goldilocks,False,0.1
+2020-09-30,Moderate,Flat,Narrowing,Normal,Compression,Goldilocks,False,0.1
+2020-10-01,Moderate,Flat,Broad,Normal,Quiet Rotation,Goldilocks,False,0.125
+2020-10-05,Moderate,Flat,Broad,Normal,Quiet Rotation,Goldilocks,False,0.125
+2020-10-06,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Goldilocks,False,0.1875
+2020-10-07,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Goldilocks,False,0.1875
+2020-10-08,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2020-10-09,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2020-10-12,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2020-10-13,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2020-10-14,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Quiet Rotation,False,0.15000000000000002
+2020-10-15,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Quiet Rotation,False,0.15000000000000002
+2020-10-16,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Quiet Rotation,False,0.15000000000000002
+2020-10-19,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Quiet Rotation,False,0.15000000000000002
+2020-10-20,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2020-10-21,Moderate,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.1
+2020-10-22,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2020-10-23,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2020-10-26,Moderate,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.1
+2020-10-27,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Melt-Up,False,0.1875
+2020-10-28,Moderate,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.1
+2020-10-29,Moderate,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.1
+2020-10-30,Moderate,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.1
+2020-11-02,Moderate,Flat,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.1125
+2020-11-03,Moderate,Flat,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.1125
+2020-11-04,Moderate,Flat,Broad,Foreign-Led,Goldilocks,Melt-Up,False,0.1625
+2020-11-05,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2020-11-06,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,False,0.1
+2020-11-09,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,False,0.1
+2020-11-10,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2020-11-11,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,False,0.1
+2020-11-12,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,False,0.1
+2020-11-13,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,False,0.1
+2020-11-14,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,False,0.1
+2020-11-17,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-11-18,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-11-19,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-11-20,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-11-23,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-11-24,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-11-25,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-11-26,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-11-27,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-01,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-02,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-03,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-04,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-07,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-08,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-09,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-10,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-11,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-14,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-15,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2020-12-16,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2020-12-17,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2020-12-18,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2020-12-21,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-12-22,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-12-23,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-12-24,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2020-12-28,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2020-12-29,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-12-30,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2020-12-31,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-01,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2021-01-04,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2021-01-05,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-06,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-07,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-08,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-11,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-12,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-13,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-14,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-15,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-18,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-19,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-20,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-21,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-22,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-25,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-27,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-28,Low Rising,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2021-01-29,Low Rising,Mild Up,Healing,Foreign-Led,Melt-Up,Goldilocks,False,0.0625
+2021-02-01,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-02,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-03,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-04,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-05,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-08,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-09,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-10,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-11,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-12,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-15,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-16,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-17,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-18,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-19,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2021-02-22,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Quiet Rotation,False,0.1625
+2021-02-23,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Quiet Rotation,False,0.1625
+2021-02-24,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Quiet Rotation,False,0.1625
+2021-02-25,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Quiet Rotation,False,0.1625
+2021-02-26,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-03-01,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-02,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-03,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-04,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,False,0.1
+2021-03-05,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-08,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-09,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,False,0.1
+2021-03-10,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-12,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-15,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-16,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-17,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-03-18,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-03-19,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-22,Moderate,Mild Up,Divergent,Foreign-Led,Quiet Rotation,Melt-Up,False,0.1625
+2021-03-23,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-03-24,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-03-25,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-03-26,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-03-30,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-03-31,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-04-01,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-04-05,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-04-06,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-04-07,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-04-08,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-04-09,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-04-12,Moderate,Flat,Narrow,Foreign-Led,Melt-Up,Melt-Up,False,0.1125
+2021-04-13,High Stable,Flat,Narrow,Foreign-Led,Melt-Up,Melt-Up,False,0.1625
+2021-04-15,High Stable,Flat,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.1625
+2021-04-16,High Stable,Flat,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.1625
+2021-04-19,High Stable,Flat,Narrow,Foreign-Led,Melt-Up,Melt-Up,False,0.1625
+2021-04-20,High Stable,Flat,Narrow,Foreign-Led,Melt-Up,Melt-Up,False,0.1625
+2021-04-22,High Stable,Flat,Narrow,Foreign-Led,Melt-Up,Melt-Up,False,0.1625
+2021-04-23,High Stable,Flat,Narrow,Foreign-Led,Melt-Up,Melt-Up,False,0.1625
+2021-04-26,Moderate,Flat,Broad Sell-Off,Foreign-Led,Melt-Up,Melt-Up,False,0.175
+2021-04-27,High Stable,Flat,Broad Sell-Off,Foreign-Led,Volatile Chop,Melt-Up,False,0.225
+2021-04-28,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-04-29,Moderate,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2021-04-30,High Stable,Flat,Narrow,Normal,Volatile Chop,Melt-Up,False,0.125
+2021-05-03,Moderate,Flat,Narrow,Normal,Compression,Melt-Up,False,0.1
+2021-05-04,Moderate,Flat,Broad Sell-Off,Normal,Quiet Rotation,Melt-Up,False,0.125
+2021-05-05,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2021-05-06,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2021-05-07,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2021-05-10,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2021-05-11,Moderate,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.1
+2021-05-12,Moderate,Flat,Narrow,Normal,Compression,Melt-Up,False,0.1
+2021-05-14,Moderate,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.1
+2021-05-17,Moderate,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.1
+2021-05-18,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2021-05-19,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2021-05-20,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2021-05-21,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2021-05-24,Moderate,Flat,Divergent,Normal,Quiet Rotation,Compression,True,0.0
+2021-05-25,Moderate,Flat,Divergent,Normal,Quiet Rotation,Compression,True,0.0
+2021-05-26,Moderate,Flat,Divergent,Normal,Quiet Rotation,Quiet Rotation,True,0.0
+2021-05-27,Moderate,Flat,Divergent,Normal,Quiet Rotation,Quiet Rotation,True,0.0
+2021-05-28,Moderate,Flat,Divergent,Normal,Quiet Rotation,Quiet Rotation,True,0.0
+2021-05-31,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-01,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-02,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-03,Moderate,Mild Up,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.1125
+2021-06-04,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-07,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-08,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-09,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-10,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-11,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-14,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-15,Moderate,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-16,Moderate,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-06-17,Moderate,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-06-18,Low Stable,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-21,Low Stable,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-22,Low Stable,Flat,Divergent,No Support,Quiet Rotation,Quiet Rotation,False,0.05
+2021-06-23,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-06-24,Low Stable,Flat,Healing,Thin,Compression,Quiet Rotation,False,0.1125
+2021-06-25,Low Stable,Mild Up,Healing,Thin,Compression,Quiet Rotation,False,0.175
+2021-06-28,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-06-29,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-06-30,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-07-01,Low Stable,Flat,Healing,Thin,Compression,Quiet Rotation,False,0.1125
+2021-07-02,Low Stable,Flat,Healing,Thin,Compression,Quiet Rotation,False,0.1125
+2021-07-05,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-07-06,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-07-07,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-07-08,Low Stable,Mild Down,Healing,Thin,Compression,Compression,False,0.175
+2021-07-09,Low Stable,Mild Down,Healing,Thin,Compression,Compression,False,0.175
+2021-07-12,Low Stable,Mild Down,Divergent,Thin,Quiet Rotation,Compression,False,0.0625
+2021-07-13,Low Stable,Flat,Healing,Thin,Compression,Compression,False,0.1125
+2021-07-14,Low Stable,Flat,Healing,Thin,Compression,Compression,False,0.1125
+2021-07-15,Low Stable,Flat,Healing,Thin,Compression,Compression,False,0.1125
+2021-07-16,Low Stable,Flat,Healing,Thin,Compression,Compression,False,0.1125
+2021-07-19,Low Stable,Flat,Healing,Thin,Compression,Compression,False,0.1125
+2021-07-20,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-07-22,Low Stable,Flat,Healing,Thin,Compression,Compression,False,0.1125
+2021-07-23,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-07-26,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-07-27,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-07-28,Low Stable,Mild Down,Narrow,Thin,Compression,Compression,False,0.1125
+2021-07-29,Low Stable,Mild Down,Narrow,Thin,Compression,Compression,False,0.1125
+2021-07-30,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-02,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-03,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-04,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-05,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-06,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-09,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Compression,True,0.0
+2021-08-10,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-11,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-12,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-13,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-16,Low Rising,Flat,Narrow,Thin,Compression,Compression,True,0.0
+2021-08-17,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-18,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-20,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-23,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-24,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-25,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-26,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-27,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2021-08-30,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Compression,True,0.0
+2021-08-31,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-09-01,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-09-02,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2021-09-03,Low Stable,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.0625
+2021-09-06,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.1125
+2021-09-07,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.1125
+2021-09-08,Low Stable,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.0625
+2021-09-09,Low Stable,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.0625
+2021-09-13,Low Stable,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.0625
+2021-09-14,Low Stable,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.0625
+2021-09-15,Low Stable,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.0625
+2021-09-16,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.1125
+2021-09-17,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.1125
+2021-09-20,Low Rising,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.05
+2021-09-21,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.1125
+2021-09-22,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.1125
+2021-09-23,Low Rising,Strong Up,Broad,Thin,Compression,Quiet Rotation,False,0.1875
+2021-09-24,Low Rising,Strong Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.175
+2021-09-27,Low Rising,Mild Up,Broad,Thin,Compression,Quiet Rotation,False,0.125
+2021-09-28,Low Rising,Mild Up,Broad,Thin,Compression,Quiet Rotation,False,0.125
+2021-09-29,Low Rising,Mild Up,Broad,Thin,Compression,Quiet Rotation,False,0.125
+2021-09-30,Low Rising,Mild Up,Broad,Thin,Compression,Quiet Rotation,False,0.125
+2021-10-01,Low Rising,Mild Up,Broad,Thin,Compression,Compression,False,0.125
+2021-10-04,Low Rising,Mild Up,Broad,Thin,Compression,Compression,False,0.125
+2021-10-05,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Compression,False,0.1125
+2021-10-06,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Compression,False,0.1125
+2021-10-07,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Compression,False,0.1125
+2021-10-08,Low Rising,Strong Up,Divergent,Thin,Quiet Rotation,Compression,False,0.175
+2021-10-11,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.1125
+2021-10-12,Low Rising,Mild Up,Divergent,Thin,Quiet Rotation,Quiet Rotation,False,0.1125
+2021-10-13,Low Rising,Mild Up,Broad,Thin,Compression,Quiet Rotation,False,0.125
+2021-10-14,Low Rising,Mild Up,Broad,Thin,Compression,Quiet Rotation,False,0.125
+2021-10-18,Low Rising,Strong Up,Broad,Domestic Absorption,Goldilocks,Quiet Rotation,False,0.15000000000000002
+2021-10-19,Low Rising,Strong Up,Divergent,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.22499999999999998
+2021-10-20,Low Rising,Strong Up,Divergent,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.22499999999999998
+2021-10-21,Low Rising,Strong Up,Divergent,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.22499999999999998
+2021-10-22,Low Rising,Mild Up,Narrow,Domestic Absorption,Melt-Up,Quiet Rotation,False,0.1
+2021-10-25,Low Rising,Mild Up,Narrow,Domestic Absorption,Melt-Up,Quiet Rotation,False,0.1
+2021-10-26,Low Rising,Mild Up,Healing,Domestic Absorption,Recovery,Quiet Rotation,False,0.15
+2021-10-27,Low Rising,Mild Up,Healing,Domestic Absorption,Recovery,Quiet Rotation,False,0.15
+2021-10-28,Low Rising,Mild Up,Narrow,Domestic Absorption,Melt-Up,Quiet Rotation,False,0.1
+2021-10-29,Low Rising,Mild Down,Narrow,Domestic Absorption,Compression,Quiet Rotation,False,0.1625
+2021-11-01,Low Rising,Mild Up,Narrow,No Support,Compression,Quiet Rotation,False,0.1125
+2021-11-02,Low Rising,Mild Up,Narrow,No Support,Compression,Quiet Rotation,False,0.1125
+2021-11-03,Low Rising,Mild Up,Narrow,No Support,Compression,Quiet Rotation,False,0.1125
+2021-11-04,Low Stable,Mild Up,Narrow,No Support,Compression,Compression,False,0.1625
+2021-11-08,Low Stable,Unclassified,Divergent,No Support,Quiet Rotation,Compression,False,0.3
+2021-11-09,Low Stable,Mild Down,Divergent,No Support,Quiet Rotation,Compression,False,0.1125
+2021-11-10,Low Stable,Mild Down,Narrow,No Support,Compression,Compression,False,0.1625
+2021-11-11,Moderate,Divergent,Narrow,No Support,Compression,Compression,False,0.22499999999999998
+2021-11-12,Moderate,Mild Down,Divergent,No Support,Volatile Chop,Compression,False,0.1
+2021-11-15,Moderate,Mild Down,Divergent,No Support,Volatile Chop,Compression,False,0.1
+2021-11-16,Moderate,Divergent,Narrow,No Support,Compression,Compression,False,0.22499999999999998
+2021-11-17,Moderate,Divergent,Narrow,No Support,Compression,Compression,False,0.22499999999999998
+2021-11-18,Moderate,Divergent,Narrow,No Support,Compression,Compression,False,0.22499999999999998
+2021-11-22,Moderate,Divergent,Narrow,No Support,Compression,Compression,False,0.22499999999999998
+2021-11-23,Moderate,Divergent,Narrow,No Support,Compression,Compression,False,0.22499999999999998
+2021-11-24,Moderate,Divergent,Narrow,No Support,Compression,Compression,False,0.22499999999999998
+2021-11-25,Moderate,Divergent,Narrow,No Support,Compression,Compression,False,0.22499999999999998
+2021-11-26,Moderate,Divergent,Narrow,No Support,Compression,Compression,False,0.22499999999999998
+2021-11-29,Moderate,Divergent,Narrow,No Support,Compression,Compression,False,0.22499999999999998
+2021-11-30,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-01,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-02,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-03,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-06,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-07,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-08,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-09,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-10,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-13,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-14,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-15,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-16,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-17,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-20,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-21,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-22,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-23,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-24,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-27,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-28,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-29,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-30,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2021-12-31,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-03,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-04,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-05,Moderate,Divergent,Narrowing,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-06,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-07,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-10,Moderate,Divergent,Narrowing,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-11,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-12,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-13,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-14,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-17,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-18,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-19,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-20,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-21,Moderate,Divergent,Narrow,Domestic Absorption,Compression,Compression,False,0.275
+2022-01-24,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-01-25,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-01-27,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-01-28,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-01-31,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-02-01,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-02-02,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-02-03,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-02-04,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-02-07,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-02-08,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-02-09,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-02-10,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-02-11,Moderate,Divergent,Broad Sell-Off,Domestic Absorption,Quiet Rotation,Quiet Rotation,False,0.3
+2022-02-14,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-02-15,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-02-16,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-02-17,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-02-18,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-02-21,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-02-22,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-02-23,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-02-24,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-02-25,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-02-28,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-02,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-03,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-04,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-07,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-08,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-09,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-10,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-11,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-14,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-15,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-16,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-17,High Stable,Divergent,Healing,Domestic Absorption,Recovery,Crisis,False,0.175
+2022-03-21,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-03-22,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-03-23,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-03-24,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-03-25,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-03-28,High Stable,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-03-29,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-03-30,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-03-31,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-04-01,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-04-04,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-04-05,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-04-06,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-04-07,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-04-08,High Chaotic,Divergent,Divergent,Domestic Absorption,Volatile Chop,Crisis,False,0.175
+2022-04-11,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-04-12,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-04-13,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-04-18,High Chaotic,Divergent,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.225
+2022-04-19,High Chaotic,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-04-20,High Chaotic,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-04-21,High Chaotic,Divergent,Divergent,Domestic Absorption,Volatile Chop,Crisis,False,0.175
+2022-04-22,High Chaotic,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-04-25,High Chaotic,Mild Down,Healing,Domestic Absorption,Recovery,Recovery,False,0.175
+2022-04-26,High Chaotic,Mild Down,Healing,Domestic Absorption,Recovery,Recovery,False,0.175
+2022-04-27,High Chaotic,Mild Down,Healing,Domestic Absorption,Recovery,Recovery,False,0.175
+2022-04-28,High Chaotic,Divergent,Healing,Domestic Absorption,Recovery,Recovery,False,0.175
+2022-04-29,High Chaotic,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Recovery,False,0.1625
+2022-05-02,High Chaotic,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-04,High Chaotic,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-05,High Chaotic,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-06,High Chaotic,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-09,High Chaotic,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-10,High Chaotic,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-11,High Decelerating,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.15000000000000002
+2022-05-12,High Decelerating,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.15000000000000002
+2022-05-13,High Stable,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2022-05-16,High Stable,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2022-05-17,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-18,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-19,High Stable,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2022-05-20,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-23,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-24,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-25,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-26,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-27,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-05-30,High Chaotic,Mild Down,Healing,Domestic Absorption,Recovery,Crisis,False,0.175
+2022-05-31,High Chaotic,Mild Down,Healing,Domestic Absorption,Recovery,Crisis,False,0.175
+2022-06-01,High Stable,Mild Down,Healing,Domestic Absorption,Slow Bleed,Crisis,False,0.1125
+2022-06-02,High Chaotic,Mild Down,Healing,Domestic Absorption,Recovery,Crisis,False,0.175
+2022-06-03,High Chaotic,Mild Down,Healing,Domestic Absorption,Recovery,Crisis,False,0.175
+2022-06-06,High Stable,Mild Down,Healing,Domestic Absorption,Slow Bleed,Crisis,False,0.1125
+2022-06-07,High Stable,Mild Down,Healing,Domestic Absorption,Slow Bleed,Crisis,False,0.1125
+2022-06-08,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-06-09,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-06-10,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-06-13,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-06-14,High Stable,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2022-06-15,Moderate,Strong Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Crisis,False,0.25
+2022-06-16,High Stable,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2022-06-17,Moderate,Strong Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Crisis,False,0.25
+2022-06-20,Moderate,Strong Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Crisis,False,0.25
+2022-06-21,High Stable,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2022-06-22,High Stable,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2022-06-23,High Stable,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2022-06-24,High Stable,Strong Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1
+2022-06-27,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-06-28,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Crisis,False,0.175
+2022-06-29,High Stable,Strong Down,Narrow,Domestic Absorption,Crisis,Crisis,False,0.1625
+2022-06-30,Moderate,Strong Down,Narrow,Domestic Absorption,Slow Bleed,Crisis,False,0.1875
+2022-07-01,Moderate,Strong Down,Narrow,Domestic Absorption,Slow Bleed,Crisis,False,0.1875
+2022-07-04,Moderate,Strong Down,Narrow,Domestic Absorption,Slow Bleed,Crisis,False,0.1875
+2022-07-05,Moderate,Strong Down,Narrow,Domestic Absorption,Slow Bleed,Crisis,False,0.1875
+2022-07-06,Moderate,Strong Down,Narrow,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2022-07-07,Moderate,Strong Down,Narrow,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2022-07-08,Moderate,Strong Down,Narrow,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2022-07-11,Moderate,Strong Down,Divergent,Domestic Absorption,Volatile Chop,Slow Bleed,False,0.1625
+2022-07-12,Moderate,Strong Down,Narrow,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2022-07-13,Moderate,Strong Down,Narrow,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2022-07-14,Moderate,Strong Down,Divergent,Domestic Absorption,Volatile Chop,Slow Bleed,False,0.1625
+2022-07-15,Moderate,Strong Down,Divergent,Thin,Volatile Chop,Slow Bleed,False,0.1125
+2022-07-18,Moderate,Strong Down,Divergent,Thin,Volatile Chop,Slow Bleed,False,0.1125
+2022-07-19,Moderate,Strong Down,Divergent,Thin,Volatile Chop,Slow Bleed,False,0.1125
+2022-07-20,Moderate,Strong Down,Divergent,Thin,Volatile Chop,Volatile Chop,False,0.1125
+2022-07-21,Moderate,Mild Down,Divergent,Thin,Volatile Chop,Volatile Chop,False,0.05
+2022-07-22,Moderate,Mild Down,Divergent,Thin,Volatile Chop,Volatile Chop,False,0.05
+2022-07-25,Moderate,Mild Down,Divergent,Thin,Volatile Chop,Volatile Chop,False,0.05
+2022-07-26,Moderate,Mild Down,Divergent,Thin,Volatile Chop,Volatile Chop,False,0.05
+2022-07-27,Moderate,Mild Down,Healing,Thin,Slow Bleed,Volatile Chop,False,0.1125
+2022-07-28,Moderate,Mild Down,Healing,Thin,Slow Bleed,Volatile Chop,False,0.1125
+2022-07-29,Moderate,Divergent,Healing,Thin,Compression,Volatile Chop,False,0.2375
+2022-08-01,Moderate,Divergent,Broad,Thin,Compression,Volatile Chop,False,0.2375
+2022-08-02,Moderate,Divergent,Broad,Thin,Compression,Volatile Chop,False,0.2375
+2022-08-03,Moderate,Divergent,Broad,Thin,Compression,Volatile Chop,False,0.2375
+2022-08-04,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-05,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-08,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-10,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-11,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-12,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-16,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-17,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-18,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-19,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-22,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-23,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-24,Low Stable,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-25,Low Rising,Divergent,Broad,Thin,Compression,Compression,False,0.1875
+2022-08-26,Low Stable,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-29,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-08-30,Moderate,Flat,Broad,Thin,Compression,Compression,False,0.1125
+2022-09-01,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-09-02,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-09-05,Moderate,Divergent,Broad,Thin,Compression,Compression,False,0.2375
+2022-09-06,Moderate,Flat,Broad,Thin,Compression,Compression,False,0.1125
+2022-09-07,Moderate,Flat,Broad,Thin,Compression,Compression,False,0.1125
+2022-09-08,Low Stable,Flat,Broad,Thin,Compression,Compression,False,0.1125
+2022-09-09,Low Stable,Flat,Broad,Thin,Compression,Compression,False,0.1125
+2022-09-12,Low Stable,Flat,Broad,Thin,Compression,Compression,False,0.1125
+2022-09-13,Low Stable,Flat,Broad,Thin,Compression,Compression,False,0.1125
+2022-09-14,Low Rising,Flat,Broad,Thin,Compression,Compression,False,0.0625
+2022-09-15,Low Rising,Divergent,Broad,Thin,Compression,Compression,False,0.1875
+2022-09-16,Low Rising,Divergent,Broad,Thin,Compression,Compression,False,0.1875
+2022-09-19,Low Rising,Divergent,Healing,Thin,Compression,Compression,False,0.1875
+2022-09-20,Low Rising,Divergent,Broad,Thin,Compression,Compression,False,0.1875
+2022-09-21,Low Rising,Divergent,Broad,Thin,Compression,Compression,False,0.1875
+2022-09-22,Low Rising,Divergent,Healing,Thin,Compression,Compression,False,0.1875
+2022-09-23,Low Rising,Divergent,Healing,Thin,Compression,Compression,False,0.1875
+2022-09-26,Low Rising,Mild Down,Healing,Thin,Compression,Compression,False,0.125
+2022-09-27,Low Rising,Mild Down,Healing,Thin,Compression,Compression,False,0.125
+2022-09-28,Low Rising,Mild Down,Healing,Normal,Slow Bleed,Compression,False,0.1625
+2022-09-29,Low Rising,Mild Down,Healing,Normal,Slow Bleed,Compression,False,0.1625
+2022-09-30,Low Rising,Mild Down,Healing,Normal,Slow Bleed,Compression,False,0.1625
+2022-10-03,Low Rising,Mild Down,Healing,Normal,Slow Bleed,Compression,False,0.1625
+2022-10-04,Moderate,Divergent,Broad,Normal,Quiet Rotation,Compression,False,0.25
+2022-10-06,Moderate,Divergent,Broad,Normal,Quiet Rotation,Compression,False,0.25
+2022-10-07,Moderate,Divergent,Broad,Normal,Quiet Rotation,Compression,False,0.25
+2022-10-10,Moderate,Divergent,Healing,Normal,Recovery,Compression,False,0.225
+2022-10-11,Moderate,Mild Down,Healing,Normal,Slow Bleed,Compression,False,0.1125
+2022-10-12,Moderate,Mild Down,Healing,Normal,Slow Bleed,Compression,False,0.1125
+2022-10-13,Moderate,Mild Down,Healing,Normal,Slow Bleed,Compression,False,0.1125
+2022-10-14,Moderate,Divergent,Healing,Normal,Recovery,Compression,False,0.225
+2022-10-17,Moderate,Divergent,Healing,Normal,Recovery,Compression,False,0.225
+2022-10-18,Moderate,Divergent,Broad,Normal,Quiet Rotation,Compression,False,0.25
+2022-10-19,Moderate,Flat,Healing,Normal,Quiet Rotation,Compression,False,0.125
+2022-10-20,Moderate,Flat,Broad,Normal,Quiet Rotation,Compression,False,0.125
+2022-10-21,Moderate,Divergent,Healing,Normal,Recovery,Compression,False,0.225
+2022-10-24,Low Stable,Flat,Broad,Thin,Compression,Compression,False,0.1125
+2022-10-25,Low Stable,Flat,Broad,Normal,Quiet Rotation,Compression,False,0.125
+2022-10-27,Low Stable,Flat,Broad,Normal,Quiet Rotation,Compression,False,0.125
+2022-10-28,Low Stable,Flat,Broad,Normal,Quiet Rotation,Compression,False,0.125
+2022-10-31,Low Stable,Flat,Broad,Normal,Quiet Rotation,Compression,False,0.125
+2022-11-01,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-02,Low Stable,Divergent,Broad,Normal,Goldilocks,Quiet Rotation,False,0.225
+2022-11-03,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-04,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-07,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-09,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-10,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-11,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-14,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-15,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-16,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-17,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-18,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-21,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-22,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-23,Low Stable,Flat,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2022-11-24,Low Stable,Mild Up,Broad,Normal,Goldilocks,Quiet Rotation,False,0.1
+2022-11-25,Low Stable,Mild Up,Broad,Normal,Goldilocks,Quiet Rotation,False,0.1
+2022-11-28,Low Stable,Mild Up,Broad,Normal,Goldilocks,Quiet Rotation,False,0.1
+2022-11-29,Low Stable,Mild Up,Broad,Normal,Goldilocks,Quiet Rotation,False,0.1
+2022-11-30,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2022-12-01,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2022-12-02,Low Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.25
+2022-12-05,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2022-12-06,Low Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.25
+2022-12-07,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2022-12-08,Low Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.25
+2022-12-09,Low Stable,Mild Up,Narrowing,Foreign-Led,Melt-Up,Goldilocks,False,0.05
+2022-12-12,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2022-12-13,Low Stable,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.0625
+2022-12-14,Low Stable,Flat,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.0625
+2022-12-15,Low Stable,Flat,Divergent,Foreign-Led,Quiet Rotation,Goldilocks,False,0.1
+2022-12-16,Low Stable,Flat,Narrowing,Foreign-Led,Melt-Up,Goldilocks,False,0.1125
+2022-12-19,Low Stable,Mild Up,Divergent,Thin,Quiet Rotation,Goldilocks,False,0.0625
+2022-12-20,Low Stable,Mild Up,Divergent,Thin,Quiet Rotation,Goldilocks,False,0.0625
+2022-12-21,Low Stable,Flat,Divergent,Thin,Quiet Rotation,Quiet Rotation,True,0.0
+2022-12-22,Low Rising,Mild Up,Narrowing,Thin,Compression,Quiet Rotation,False,0.0625
+2022-12-23,Low Rising,Mild Up,Narrowing,Thin,Compression,Quiet Rotation,False,0.0625
+2022-12-26,Low Rising,Mild Up,Narrowing,Thin,Compression,Quiet Rotation,False,0.0625
+2022-12-27,Low Stable,Unclassified,Narrowing,Thin,Compression,Quiet Rotation,False,0.3
+2022-12-28,Low Stable,Mild Up,Narrowing,Thin,Compression,Compression,False,0.1125
+2022-12-29,Low Stable,Unclassified,Narrowing,Thin,Compression,Compression,False,0.3
+2022-12-30,Low Rising,Mild Up,Narrowing,Thin,Compression,Compression,False,0.0625
+2023-01-02,Low Rising,Mild Up,Narrowing,Thin,Compression,Compression,False,0.0625
+2023-01-03,Low Stable,Mild Up,Narrowing,Thin,Compression,Compression,False,0.1125
+2023-01-04,Low Rising,Flat,Narrow,Thin,Compression,Compression,True,0.0
+2023-01-05,Low Rising,Flat,Narrowing,Thin,Compression,Compression,True,0.0
+2023-01-06,Low Rising,Flat,Narrow,Thin,Compression,Compression,True,0.0
+2023-01-09,Low Rising,Flat,Narrowing,Thin,Compression,Compression,True,0.0
+2023-01-10,Low Rising,Flat,Narrowing,Thin,Compression,Compression,True,0.0
+2023-01-11,Low Rising,Flat,Narrow,Thin,Compression,Compression,True,0.0
+2023-01-12,Low Rising,Flat,Narrow,Thin,Compression,Compression,True,0.0
+2023-01-13,Low Stable,Flat,Narrow,Thin,Compression,Compression,False,0.05
+2023-01-16,Low Rising,Flat,Narrowing,Thin,Compression,Compression,True,0.0
+2023-01-17,Low Stable,Flat,Narrowing,Thin,Compression,Compression,False,0.05
+2023-01-18,Low Stable,Flat,Narrowing,Thin,Compression,Compression,False,0.05
+2023-01-19,Low Stable,Flat,Narrowing,Thin,Compression,Compression,False,0.05
+2023-01-20,Low Stable,Flat,Narrowing,Thin,Compression,Compression,False,0.05
+2023-01-23,Low Stable,Flat,Narrowing,Thin,Compression,Compression,False,0.05
+2023-01-24,Low Stable,Flat,Narrowing,Thin,Compression,Compression,False,0.05
+2023-01-25,Low Rising,Divergent,Narrowing,Thin,Compression,Compression,False,0.125
+2023-01-27,Low Rising,Mild Down,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.125
+2023-01-30,Low Rising,Flat,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.0625
+2023-01-31,Low Rising,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.05
+2023-02-01,Low Rising,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.05
+2023-02-02,Low Rising,Mild Down,Narrowing,Normal,Slow Bleed,Melt-Up,False,0.1
+2023-02-03,Low Stable,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.1
+2023-02-06,Low Stable,Mild Down,Narrowing,Normal,Slow Bleed,Melt-Up,False,0.15000000000000002
+2023-02-07,Low Stable,Mild Down,Narrowing,Normal,Slow Bleed,Melt-Up,False,0.15000000000000002
+2023-02-08,Low Stable,Flat,Narrow,Normal,Compression,Melt-Up,False,0.1
+2023-02-09,Low Stable,Flat,Narrowing,Normal,Compression,Melt-Up,False,0.1
+2023-02-10,Low Stable,Divergent,Narrow,Normal,Compression,Melt-Up,False,0.22499999999999998
+2023-02-13,Low Stable,Mild Down,Narrow,Normal,Compression,Melt-Up,False,0.1625
+2023-02-14,Low Stable,Divergent,Narrow,Normal,Compression,Compression,False,0.22499999999999998
+2023-02-15,Low Stable,Divergent,Narrow,Normal,Compression,Compression,False,0.22499999999999998
+2023-02-16,Low Stable,Divergent,Narrow,Normal,Compression,Compression,False,0.22499999999999998
+2023-02-17,Low Stable,Flat,Narrow,Normal,Compression,Compression,False,0.1
+2023-02-20,Low Stable,Divergent,Narrow,Normal,Compression,Compression,False,0.22499999999999998
+2023-02-21,Low Stable,Flat,Narrow,Normal,Compression,Compression,False,0.1
+2023-02-22,Low Rising,Mild Down,Narrow,Normal,Compression,Compression,False,0.1125
+2023-02-23,Low Rising,Mild Down,Narrow,Normal,Compression,Compression,False,0.1125
+2023-02-24,Low Stable,Mild Down,Narrow,Normal,Compression,Compression,False,0.1625
+2023-02-27,Low Stable,Mild Down,Narrow,Normal,Compression,Compression,False,0.1625
+2023-02-28,Low Stable,Strong Down,Narrow,Normal,Compression,Compression,False,0.22499999999999998
+2023-03-01,Low Stable,Flat,Narrow,Normal,Compression,Compression,False,0.1
+2023-03-02,Low Stable,Mild Down,Narrow,Normal,Compression,Compression,False,0.1625
+2023-03-03,Low Stable,Flat,Narrow,Normal,Compression,Compression,False,0.1
+2023-03-06,Low Stable,Flat,Narrow,Normal,Compression,Compression,False,0.1
+2023-03-08,Low Stable,Mild Up,Narrowing,Normal,Melt-Up,Compression,False,0.15000000000000002
+2023-03-09,Low Stable,Mild Up,Narrowing,Normal,Melt-Up,Compression,False,0.15000000000000002
+2023-03-10,Low Stable,Mild Down,Narrow,Normal,Compression,Compression,False,0.1625
+2023-03-13,Low Rising,Mild Down,Narrow,Normal,Compression,Compression,False,0.1125
+2023-03-14,Low Rising,Mild Down,Narrow,Normal,Compression,Compression,False,0.1125
+2023-03-15,Low Rising,Strong Down,Narrow,Normal,Compression,Compression,False,0.175
+2023-03-16,Low Rising,Strong Down,Narrow,Normal,Compression,Compression,False,0.175
+2023-03-17,Low Stable,Strong Down,Narrow,Normal,Compression,Compression,False,0.22499999999999998
+2023-03-20,Low Rising,Strong Down,Narrow,Normal,Compression,Compression,False,0.175
+2023-03-21,Low Stable,Strong Down,Narrow,Normal,Compression,Compression,False,0.22499999999999998
+2023-03-22,Low Stable,Strong Down,Narrow,Normal,Compression,Compression,False,0.22499999999999998
+2023-03-23,Low Stable,Strong Down,Narrow,Normal,Compression,Compression,False,0.22499999999999998
+2023-03-24,Low Rising,Strong Down,Narrow,Normal,Compression,Compression,False,0.175
+2023-03-27,Low Rising,Strong Down,Narrow,Normal,Compression,Compression,False,0.175
+2023-03-28,Low Rising,Strong Down,Narrow,Normal,Compression,Compression,False,0.175
+2023-03-29,Low Stable,Mild Down,Narrow,Normal,Compression,Compression,False,0.1625
+2023-03-31,Low Stable,Strong Down,Narrow,Normal,Compression,Compression,False,0.22499999999999998
+2023-04-03,Low Stable,Mild Down,Narrow,Normal,Compression,Compression,False,0.1625
+2023-04-05,Low Stable,Mild Down,Narrow,Normal,Compression,Compression,False,0.1625
+2023-04-06,Low Stable,Mild Down,Narrow,Normal,Compression,Compression,False,0.1625
+2023-04-10,Low Stable,Mild Down,Divergent,Normal,Quiet Rotation,Compression,False,0.0625
+2023-04-11,Low Stable,Mild Down,Divergent,Normal,Quiet Rotation,Compression,False,0.0625
+2023-04-12,Low Stable,Mild Down,Divergent,Normal,Quiet Rotation,Compression,False,0.0625
+2023-04-13,Low Stable,Mild Down,Divergent,Normal,Quiet Rotation,Compression,False,0.0625
+2023-04-17,Low Stable,Mild Down,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2023-04-18,Low Stable,Mild Down,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2023-04-19,Low Stable,Mild Down,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2023-04-20,Low Stable,Mild Down,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2023-04-21,Low Stable,Mild Down,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2023-04-24,Low Stable,Flat,Divergent,Normal,Quiet Rotation,Quiet Rotation,True,0.0
+2023-04-25,Low Stable,Flat,Divergent,Normal,Quiet Rotation,Quiet Rotation,True,0.0
+2023-04-26,Low Stable,Flat,Divergent,Normal,Quiet Rotation,Quiet Rotation,True,0.0
+2023-04-27,Low Stable,Flat,Healing,Normal,Quiet Rotation,Quiet Rotation,False,0.125
+2023-04-28,Low Stable,Mild Up,Healing,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-05-02,Low Stable,Mild Up,Healing,Foreign-Led,Melt-Up,Quiet Rotation,False,0.1125
+2023-05-03,Low Stable,Mild Up,Healing,Foreign-Led,Melt-Up,Quiet Rotation,False,0.1125
+2023-05-04,Low Stable,Mild Up,Healing,Foreign-Led,Melt-Up,Quiet Rotation,False,0.1125
+2023-05-05,Low Stable,Flat,Healing,Foreign-Led,Melt-Up,Quiet Rotation,False,0.175
+2023-05-08,Low Stable,Mild Up,Healing,Foreign-Led,Melt-Up,Melt-Up,False,0.1125
+2023-05-09,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,True,0.0
+2023-05-10,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,True,0.0
+2023-05-11,Low Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Melt-Up,False,0.25
+2023-05-12,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Melt-Up,True,0.0
+2023-05-15,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-05-16,Low Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.25
+2023-05-17,Low Stable,Mild Up,Healing,Foreign-Led,Melt-Up,Goldilocks,False,0.1125
+2023-05-18,Low Stable,Mild Up,Healing,Foreign-Led,Melt-Up,Goldilocks,False,0.1125
+2023-05-19,Low Stable,Mild Up,Healing,Foreign-Led,Melt-Up,Goldilocks,False,0.1125
+2023-05-22,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-05-23,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-05-24,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-05-25,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-05-26,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-05-29,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-05-30,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-05-31,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-01,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-02,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-05,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-06,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-07,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-08,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-09,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-12,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-13,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-14,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-15,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-16,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-19,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-20,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-21,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-22,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-23,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-26,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-27,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-28,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-06-30,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-03,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-04,Low Rising,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2023-07-05,Low Rising,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2023-07-06,Low Rising,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2023-07-07,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-10,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-11,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-12,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-13,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-14,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-17,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-18,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-19,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-20,Low Rising,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2023-07-21,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-24,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-25,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-26,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-27,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-28,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-07-31,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-01,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-02,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-03,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-04,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-07,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-08,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-09,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-10,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-11,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-14,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-16,Low Rising,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2023-08-17,Low Rising,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.05
+2023-08-18,Low Stable,Unclassified,Divergent,Foreign-Led,Quiet Rotation,Goldilocks,False,0.35
+2023-08-21,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-22,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-23,Low Stable,Unclassified,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.25
+2023-08-24,Low Stable,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-25,Low Rising,Mild Up,Divergent,Foreign-Led,Melt-Up,Goldilocks,False,0.125
+2023-08-28,Low Rising,Strong Up,Divergent,Foreign-Led,Melt-Up,Goldilocks,False,0.125
+2023-08-29,Low Rising,Strong Up,Divergent,Foreign-Led,Melt-Up,Goldilocks,False,0.125
+2023-08-30,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-08-31,Low Rising,Strong Up,Divergent,Foreign-Led,Melt-Up,Goldilocks,False,0.125
+2023-09-01,Low Stable,Strong Up,Divergent,Foreign-Led,Goldilocks,Goldilocks,False,0.125
+2023-09-04,Low Stable,Strong Up,Divergent,Foreign-Led,Goldilocks,Goldilocks,False,0.125
+2023-09-05,Low Stable,Strong Up,Divergent,Foreign-Led,Goldilocks,Goldilocks,False,0.125
+2023-09-06,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-09-07,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-09-08,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-09-11,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-09-12,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-09-13,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-09-14,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-09-15,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-09-18,Low Stable,Strong Up,Broad,Foreign-Led,Goldilocks,Goldilocks,True,0.0
+2023-09-20,Low Stable,Strong Up,Divergent,Foreign-Led,Goldilocks,Goldilocks,False,0.125
+2023-09-21,Low Stable,Strong Up,Divergent,Foreign-Led,Goldilocks,Goldilocks,False,0.125
+2023-09-22,Low Stable,Strong Up,Divergent,Foreign-Led,Goldilocks,Goldilocks,False,0.125
+2023-09-25,Low Stable,Strong Up,Narrowing,Foreign-Led,Melt-Up,Goldilocks,False,0.05
+2023-09-26,Low Stable,Strong Up,Narrowing,Foreign-Led,Melt-Up,Goldilocks,False,0.05
+2023-09-27,Low Stable,Strong Up,Divergent,Foreign-Led,Goldilocks,Goldilocks,False,0.125
+2023-09-28,Low Rising,Mild Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,True,0.0
+2023-09-29,Low Stable,Strong Up,Narrowing,Foreign-Led,Melt-Up,Melt-Up,False,0.05
+2023-10-03,Low Stable,Strong Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-04,Low Stable,Strong Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-05,Low Stable,Strong Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-06,Low Stable,Strong Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-09,Moderate,Strong Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-10,Moderate,Strong Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-11,Moderate,Strong Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-12,Moderate,Strong Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-13,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-16,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-17,Low Stable,Strong Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-18,Low Stable,Strong Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-19,Low Stable,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-20,Low Stable,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2023-10-23,Moderate,Mild Down,Narrowing,Normal,Slow Bleed,Melt-Up,False,0.05
+2023-10-25,Moderate,Mild Down,Narrowing,Normal,Slow Bleed,Melt-Up,False,0.05
+2023-10-26,Moderate,Mild Down,Broad Sell-Off,Normal,Volatile Chop,Melt-Up,False,0.175
+2023-10-27,Moderate,Mild Down,Narrowing,Normal,Slow Bleed,Melt-Up,False,0.05
+2023-10-30,Moderate,Mild Down,Narrowing,Normal,Slow Bleed,Melt-Up,False,0.05
+2023-10-31,Moderate,Divergent,Narrowing,Normal,Compression,Melt-Up,False,0.22499999999999998
+2023-11-01,Moderate,Divergent,Narrowing,Normal,Compression,Melt-Up,False,0.22499999999999998
+2023-11-02,Moderate,Divergent,Narrowing,Normal,Compression,Melt-Up,False,0.22499999999999998
+2023-11-03,Moderate,Divergent,Narrowing,Normal,Compression,Melt-Up,False,0.22499999999999998
+2023-11-06,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2023-11-07,Moderate,Divergent,Narrowing,Normal,Compression,Compression,False,0.22499999999999998
+2023-11-08,Moderate,Divergent,Narrowing,Normal,Compression,Compression,False,0.22499999999999998
+2023-11-09,Moderate,Divergent,Narrowing,Normal,Compression,Compression,False,0.22499999999999998
+2023-11-10,Moderate,Divergent,Narrowing,Normal,Compression,Compression,False,0.22499999999999998
+2023-11-12,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2023-11-13,Moderate,Mild Down,Narrowing,Normal,Slow Bleed,Compression,False,0.05
+2023-11-15,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2023-11-16,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2023-11-17,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2023-11-20,Moderate,Mild Down,Narrowing,Normal,Slow Bleed,Compression,False,0.05
+2023-11-21,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2023-11-22,Moderate,Flat,Divergent,Normal,Quiet Rotation,Compression,True,0.0
+2023-11-23,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2023-11-24,Moderate,Flat,Narrowing,Normal,Compression,Compression,False,0.1
+2023-11-28,Moderate,Flat,Divergent,Normal,Quiet Rotation,Quiet Rotation,True,0.0
+2023-11-29,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2023-11-30,Moderate,Flat,Divergent,Normal,Quiet Rotation,Quiet Rotation,True,0.0
+2023-12-01,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2023-12-04,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-05,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-06,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-07,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-08,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-11,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-12,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-13,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-14,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-15,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-18,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-19,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-20,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-21,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-22,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-26,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-27,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-28,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2023-12-29,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2024-01-01,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Quiet Rotation,False,0.1
+2024-01-02,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Quiet Rotation,False,0.1
+2024-01-03,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Quiet Rotation,False,0.1
+2024-01-04,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Quiet Rotation,False,0.1
+2024-01-05,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2024-01-08,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2024-01-09,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2024-01-10,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2024-01-11,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2024-01-12,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2024-01-15,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2024-01-16,Moderate,Mild Up,Broad,Foreign-Led,Goldilocks,Goldilocks,False,0.1
+2024-01-17,High Stable,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.15000000000000002
+2024-01-18,High Stable,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.15000000000000002
+2024-01-19,High Stable,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.15000000000000002
+2024-01-20,Moderate,Mild Up,Healing,Foreign-Led,Melt-Up,Recovery,False,0.1125
+2024-01-23,High Stable,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.15000000000000002
+2024-01-24,High Stable,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.15000000000000002
+2024-01-25,High Stable,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.15000000000000002
+2024-01-29,High Stable,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.15000000000000002
+2024-01-30,High Stable,Mild Up,Healing,Foreign-Led,Recovery,Recovery,False,0.15000000000000002
+2024-01-31,High Stable,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-02-01,High Stable,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-02-02,High Stable,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-02-05,High Stable,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-02-06,High Stable,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-02-07,High Stable,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-02-08,High Stable,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-02-09,High Stable,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-02-12,High Stable,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-02-13,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.0625
+2024-02-14,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.0625
+2024-02-15,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.0625
+2024-02-16,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.0625
+2024-02-19,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.0625
+2024-02-20,High Stable,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-02-21,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.0625
+2024-02-22,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.0625
+2024-02-23,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.0625
+2024-02-26,High Decelerating,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.1125
+2024-02-27,High Decelerating,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.1125
+2024-02-28,High Decelerating,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.0625
+2024-02-29,High Decelerating,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.0625
+2024-03-01,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-02,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-04,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-05,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-06,High Decelerating,Mild Up,Divergent,Normal,Volatile Chop,Recovery,False,0.1125
+2024-03-07,High Chaotic,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-11,High Chaotic,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-12,High Decelerating,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.0625
+2024-03-13,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-14,High Chaotic,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-15,High Chaotic,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-18,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-19,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Recovery,False,0.125
+2024-03-20,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-21,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-22,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-26,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-27,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-03-28,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Recovery,False,0.0625
+2024-04-01,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Recovery,False,0.0625
+2024-04-02,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-04-03,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-04-04,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Recovery,False,0.0625
+2024-04-05,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Recovery,False,0.0625
+2024-04-08,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Recovery,False,0.0625
+2024-04-09,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Recovery,False,0.0625
+2024-04-10,High Stable,Mild Up,Divergent,Normal,Volatile Chop,Volatile Chop,False,0.0625
+2024-04-12,High Stable,Mild Up,Narrowing,Normal,Recovery,Volatile Chop,False,0.1125
+2024-04-15,High Stable,Mild Up,Narrowing,Normal,Recovery,Volatile Chop,False,0.1125
+2024-04-16,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-04-18,High Stable,Mild Up,Broad Sell-Off,Normal,Recovery,Recovery,False,0.175
+2024-04-19,High Stable,Mild Up,Narrowing,Normal,Recovery,Recovery,False,0.1125
+2024-04-22,High Stable,Mild Up,Broad Sell-Off,Normal,Recovery,Recovery,False,0.175
+2024-04-23,High Chaotic,Mild Up,Broad Sell-Off,Normal,Recovery,Recovery,False,0.175
+2024-04-24,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Recovery,False,0.15000000000000002
+2024-04-25,Moderate,Mild Up,Narrow,Normal,Melt-Up,Recovery,False,0.15000000000000002
+2024-04-26,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Recovery,False,0.15000000000000002
+2024-04-29,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Recovery,False,0.15000000000000002
+2024-04-30,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-02,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-03,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-06,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-07,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-08,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-09,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-10,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-13,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-14,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-15,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-16,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-17,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-18,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-21,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-22,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-23,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-24,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-27,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-28,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-29,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-30,Moderate,Mild Up,Narrowing,Normal,Melt-Up,Melt-Up,False,0.15000000000000002
+2024-05-31,Moderate,Flat,Narrow,Domestic Absorption,Compression,Compression,False,0.15000000000000002
+2024-06-03,High Stable,Mild Up,Narrowing,Domestic Absorption,Recovery,Recovery,False,0.1125
+2024-06-04,High Stable,Mild Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2625
+2024-06-05,High Chaotic,Mild Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2625
+2024-06-06,High Chaotic,Flat,Broad Sell-Off,Strong Support,Volatile Chop,Crisis,False,0.275
+2024-06-07,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Crisis,False,0.2625
+2024-06-10,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Crisis,False,0.2625
+2024-06-11,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Crisis,False,0.2625
+2024-06-12,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Crisis,False,0.2625
+2024-06-13,High Chaotic,Mild Up,Divergent,Strong Support,Volatile Chop,Crisis,False,0.2125
+2024-06-14,High Chaotic,Mild Up,Divergent,Strong Support,Volatile Chop,Crisis,False,0.2125
+2024-06-18,High Chaotic,Mild Up,Divergent,Strong Support,Volatile Chop,Crisis,False,0.2125
+2024-06-19,High Chaotic,Mild Up,Divergent,Strong Support,Volatile Chop,Crisis,False,0.2125
+2024-06-20,High Chaotic,Mild Up,Divergent,Strong Support,Volatile Chop,Volatile Chop,False,0.2125
+2024-06-21,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Volatile Chop,False,0.2625
+2024-06-24,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Volatile Chop,False,0.2625
+2024-06-25,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Volatile Chop,False,0.2625
+2024-06-26,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Volatile Chop,False,0.2625
+2024-06-27,High Chaotic,Mild Up,Divergent,Strong Support,Volatile Chop,Volatile Chop,False,0.2125
+2024-06-28,High Chaotic,Mild Up,Divergent,Strong Support,Volatile Chop,Volatile Chop,False,0.2125
+2024-07-01,High Chaotic,Mild Up,Divergent,Strong Support,Volatile Chop,Volatile Chop,False,0.2125
+2024-07-02,High Chaotic,Mild Up,Divergent,Strong Support,Volatile Chop,Volatile Chop,False,0.2125
+2024-07-03,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Volatile Chop,False,0.25
+2024-07-04,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Volatile Chop,False,0.25
+2024-07-05,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Volatile Chop,False,0.25
+2024-07-08,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Volatile Chop,False,0.25
+2024-07-09,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-10,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-11,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-12,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-15,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-16,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-18,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-19,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-22,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-23,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-24,High Chaotic,Mild Up,Healing,Strong Support,Recovery,Goldilocks,False,0.15000000000000002
+2024-07-25,High Chaotic,Mild Up,Healing,Strong Support,Recovery,Goldilocks,False,0.15000000000000002
+2024-07-26,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-29,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-30,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-07-31,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-08-01,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-08-02,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Goldilocks,False,0.25
+2024-08-05,High Chaotic,Mild Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2625
+2024-08-06,High Chaotic,Mild Down,Broad Sell-Off,Strong Support,Crisis,Crisis,False,0.2625
+2024-08-07,High Chaotic,Mild Up,Healing,Strong Support,Recovery,Crisis,False,0.15000000000000002
+2024-08-08,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Crisis,False,0.2625
+2024-08-09,High Chaotic,Mild Up,Healing,Strong Support,Recovery,Crisis,False,0.15000000000000002
+2024-08-12,High Chaotic,Mild Up,Healing,Strong Support,Recovery,Crisis,False,0.15000000000000002
+2024-08-13,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Crisis,False,0.2625
+2024-08-14,High Chaotic,Mild Up,Broad Sell-Off,Strong Support,Melt-Up,Crisis,False,0.2625
+2024-08-16,High Chaotic,Mild Up,Healing,Strong Support,Recovery,Crisis,False,0.15000000000000002
+2024-08-19,High Chaotic,Mild Up,Healing,Strong Support,Recovery,Crisis,False,0.15000000000000002
+2024-08-20,High Chaotic,Mild Up,Broad,Strong Support,Goldilocks,Crisis,False,0.25
+2024-08-21,High Chaotic,Mild Up,Healing,Normal,Recovery,Crisis,False,0.05
+2024-08-22,High Chaotic,Mild Up,Broad,Normal,Recovery,Crisis,False,0.175
+2024-08-23,High Chaotic,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-08-26,High Chaotic,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-08-27,High Chaotic,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-08-28,High Chaotic,Mild Up,Healing,Normal,Recovery,Recovery,False,0.05
+2024-08-29,High Chaotic,Mild Up,Broad,Normal,Recovery,Recovery,False,0.175
+2024-08-30,High Stable,Mild Up,Healing,Strong Support,Recovery,Recovery,False,0.15000000000000002
+2024-09-02,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Recovery,False,0.1875
+2024-09-03,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Recovery,False,0.1875
+2024-09-04,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Recovery,False,0.1875
+2024-09-05,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Recovery,False,0.0625
+2024-09-06,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2024-09-09,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2024-09-10,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2024-09-11,Moderate,Mild Up,Broad Sell-Off,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2024-09-12,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2024-09-13,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2024-09-16,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2024-09-17,Moderate,Mild Up,Healing,Normal,Recovery,Quiet Rotation,False,0.1
+2024-09-18,Moderate,Mild Up,Healing,Normal,Recovery,Quiet Rotation,False,0.1
+2024-09-19,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2024-09-20,Moderate,Mild Up,Divergent,Normal,Quiet Rotation,Quiet Rotation,False,0.0625
+2024-09-23,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2024-09-24,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2024-09-25,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2024-09-26,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2024-09-27,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2024-09-30,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2024-10-01,Moderate,Mild Up,Broad,Normal,Quiet Rotation,Quiet Rotation,False,0.1875
+2024-10-03,High Stable,Mild Up,Narrowing,Normal,Recovery,Quiet Rotation,False,0.1125
+2024-10-04,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Quiet Rotation,False,0.1125
+2024-10-07,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2024-10-08,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2024-10-09,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2024-10-10,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2024-10-11,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2024-10-14,High Stable,Mild Down,Broad Sell-Off,Normal,Crisis,Crisis,False,0.1125
+2024-10-15,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Crisis,False,0.125
+2024-10-16,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Crisis,False,0.125
+2024-10-17,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Crisis,False,0.125
+2024-10-18,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Crisis,False,0.125
+2024-10-21,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Volatile Chop,False,0.125
+2024-10-22,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Volatile Chop,False,0.125
+2024-10-23,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Volatile Chop,False,0.125
+2024-10-24,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Volatile Chop,False,0.125
+2024-10-25,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Volatile Chop,False,0.125
+2024-10-28,High Stable,Mild Down,Narrow,Normal,Volatile Chop,Volatile Chop,False,0.125
+2024-10-29,Moderate,Mild Down,Narrow,Normal,Compression,Volatile Chop,False,0.1625
+2024-10-30,Moderate,Mild Down,Narrow,Normal,Compression,Volatile Chop,False,0.1625
+2024-10-31,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2024-11-01,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2024-11-04,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2024-11-05,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2024-11-06,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.125
+2024-11-07,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.125
+2024-11-08,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.125
+2024-11-11,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.125
+2024-11-12,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.125
+2024-11-13,Moderate,Mild Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2024-11-14,Moderate,Mild Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2024-11-18,Moderate,Mild Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2024-11-19,Moderate,Mild Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2024-11-21,Moderate,Mild Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2024-11-22,Moderate,Mild Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Slow Bleed,False,0.1875
+2024-11-25,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Slow Bleed,False,0.1625
+2024-11-26,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2024-11-27,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2024-11-28,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2024-11-29,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2024-12-02,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2024-12-03,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2024-12-04,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2024-12-05,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2024-12-06,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2024-12-09,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Crisis,False,0.1625
+2024-12-10,Moderate,Mild Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Crisis,False,0.1875
+2024-12-11,Moderate,Mild Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Crisis,False,0.1875
+2024-12-12,Moderate,Mild Down,Broad Sell-Off,Domestic Absorption,Slow Bleed,Crisis,False,0.1875
+2024-12-13,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Crisis,False,0.175
+2024-12-16,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2024-12-17,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2024-12-18,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2024-12-19,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2024-12-20,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2024-12-23,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2024-12-24,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2024-12-26,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2024-12-27,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2024-12-30,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2024-12-31,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2025-01-01,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2025-01-02,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2025-01-03,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2025-01-06,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-07,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-08,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-09,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2025-01-10,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2025-01-13,High Stable,Mild Down,Broad Sell-Off,Domestic Absorption,Crisis,Volatile Chop,False,0.1625
+2025-01-14,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-15,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-16,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-17,Moderate,Mild Down,Narrow,Domestic Absorption,Slow Bleed,Volatile Chop,False,0.125
+2025-01-20,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-21,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-22,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-23,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-24,High Stable,Mild Down,Narrow,Domestic Absorption,Volatile Chop,Volatile Chop,False,0.175
+2025-01-27,High Stable,Strong Down,Narrow,Thin,Crisis,Volatile Chop,False,0.0625
+2025-01-28,High Stable,Mild Down,Narrow,Thin,Crisis,Crisis,False,0.125
+2025-01-29,High Stable,Mild Down,Narrow,Thin,Crisis,Crisis,False,0.125
+2025-01-30,High Stable,Mild Down,Narrow,Thin,Crisis,Crisis,False,0.125
+2025-01-31,High Stable,Mild Down,Narrow,Thin,Crisis,Crisis,False,0.125
