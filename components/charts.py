@@ -8,7 +8,6 @@ import numpy as np
 import pandas as pd
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
-from scipy import stats
 
 from .constants import REGIME_COLORS, REGIME_ORDER, STRATEGY_COLORS
 
@@ -72,13 +71,20 @@ def build_equity_curve(
             hovertemplate="%{x|%d %b %Y}: %{y:.1f}<extra>" + name + "</extra>",
         ))
 
-    # Add regime background bands
-    for _, stint in stints.iterrows():
+    # Add regime background bands — extend each stint to next stint's start
+    # to eliminate white gaps from weekends/holidays
+    for i in range(len(stints)):
+        stint = stints.iloc[i]
         regime = stint["regime"]
         color = REGIME_COLORS.get(regime, "#999")
         opacity = 0.25 if regime in visible_regimes else 0.03
+        x0 = stint["start"]
+        if i + 1 < len(stints):
+            x1 = stints.iloc[i + 1]["start"]
+        else:
+            x1 = stint["end"] + pd.Timedelta(days=1)
         fig.add_vrect(
-            x0=stint["start"], x1=stint["end"],
+            x0=x0, x1=x1,
             fillcolor=color, opacity=opacity,
             line_width=0, layer="below",
         )
@@ -92,7 +98,11 @@ def build_equity_curve(
         hovermode="x unified",
         paper_bgcolor="rgba(0,0,0,0)",
         plot_bgcolor="rgba(0,0,0,0)",
-        xaxis=dict(gridcolor="#e2e8f0", rangeslider=dict(visible=True, thickness=0.05)),
+        xaxis=dict(
+            gridcolor="#e2e8f0",
+            rangeslider=dict(visible=True, thickness=0.05),
+            rangebreaks=[dict(bounds=["sat", "mon"])],
+        ),
         yaxis=dict(gridcolor="#e2e8f0"),
         legend=dict(
             orientation="h", yanchor="bottom", y=1.02, xanchor="center", x=0.5,
@@ -222,51 +232,3 @@ def build_spread_bar_chart(
     return fig
 
 
-def build_decile_chart(ds: pd.DataFrame, metric_info: dict, color: str) -> go.Figure:
-    """Dual-axis bar + line chart for decile analysis."""
-    bar_colors = ["#dc2626" if r < 0 else "#16a34a" for r in ds["avg_return"]]
-
-    fig = go.Figure()
-
-    fig.add_trace(go.Bar(
-        x=ds["Decile"], y=ds["avg_return"],
-        marker_color=bar_colors,
-        text=[f"{r:.3%}" for r in ds["avg_return"]],
-        textposition="outside",
-        name="Avg Next-Day Return",
-        yaxis="y",
-    ))
-
-    fig.add_trace(go.Scatter(
-        x=ds["Decile"], y=ds["hit_rate"],
-        mode="lines+markers",
-        line=dict(color=color, width=2, dash="dot"),
-        marker=dict(size=7, color=color),
-        name="Hit Rate (% positive)",
-        yaxis="y2",
-    ))
-
-    fig.add_hline(y=0, line_dash="dash", line_color="#d1d5db")
-
-    fig.update_layout(
-        title=dict(
-            text=f"{metric_info['short_name']} — Avg Next-Day Return by Decile",
-            font=dict(size=14),
-        ),
-        xaxis_title=f"{metric_info['short_name']} Decile (D1 = Lowest, D10 = Highest)",
-        yaxis=dict(title=dict(text="Avg Next-Day Return"), tickformat=".2%", side="left"),
-        yaxis2=dict(
-            title=dict(text="Hit Rate"), tickformat=".0%",
-            overlaying="y", side="right", range=[0.3, 0.7],
-        ),
-        legend=dict(x=0, y=1.12, orientation="h"),
-        height=400,
-        margin=dict(l=60, r=60, t=60, b=50),
-        font=dict(family="Inter, system-ui, sans-serif", size=12),
-        plot_bgcolor="white",
-        paper_bgcolor="white",
-        hovermode="x unified",
-    )
-    fig.update_xaxes(showgrid=False)
-    fig.update_yaxes(showgrid=True, gridcolor="#f0f0f0")
-    return fig

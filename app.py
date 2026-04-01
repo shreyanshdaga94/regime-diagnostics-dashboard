@@ -37,7 +37,9 @@ def _check_password() -> bool:
     try:
         correct_pw = st.secrets["password"]
     except (FileNotFoundError, KeyError):
-        correct_pw = "admin123"
+        st.error("Dashboard password not configured. Set 'password' in Streamlit secrets.")
+        st.stop()
+        return False
 
     st.markdown(
         """<div style="display:flex;align-items:center;justify-content:center;
@@ -269,7 +271,7 @@ st.markdown('<div class="section-header">1. Executive Summary</div>', unsafe_all
 st.markdown(f"""
 <div class="stat-grid">
     <div class="stat-card"><div class="stat-value">{n_days:,}</div><div class="stat-label">Trading Days</div></div>
-    <div class="stat-card"><div class="stat-value">8</div><div class="stat-label">Regimes Identified</div></div>
+    <div class="stat-card"><div class="stat-value">{regimes.nunique()}</div><div class="stat-label">Regimes Identified</div></div>
     <div class="stat-card"><div class="stat-value">{transitions}</div><div class="stat-label">Regime Transitions</div></div>
     <div class="stat-card"><div class="stat-value">{canonical_rate:.1f}%</div><div class="stat-label">Canonical Match Rate</div></div>
 </div>
@@ -301,20 +303,15 @@ st.markdown(
 )
 
 # Regime filter chips
-regime_options = ["All Regimes"] + list(REGIME_ORDER)
 selected_regimes = st.pills(
     "Highlight Regimes",
-    options=regime_options,
-    default=["All Regimes"],
+    options=list(REGIME_ORDER),
+    default=list(REGIME_ORDER),
     selection_mode="multi",
     key="regime_filter_pills",
     label_visibility="collapsed",
 )
-
-if not selected_regimes or "All Regimes" in selected_regimes:
-    visible_regimes = list(REGIME_ORDER)
-else:
-    visible_regimes = [r for r in selected_regimes if r != "All Regimes"]
+visible_regimes = list(selected_regimes) if selected_regimes else list(REGIME_ORDER)
 
 # Strategy toggle chips
 st.markdown(
@@ -398,6 +395,9 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+if "Nifty 50" not in all_stats or "GoldBees" not in all_stats:
+    st.info("GoldBees data unavailable — Section 4A skipped.")
+
 if "Nifty 50" in all_stats and "GoldBees" in all_stats:
     stats_nifty = all_stats["Nifty 50"]
     stats_gold = all_stats["GoldBees"]
@@ -450,6 +450,9 @@ st.markdown(
     "Spread = Momentum minus Value (positive &rarr; momentum outperforms).</p>",
     unsafe_allow_html=True,
 )
+
+if "Momentum 30" not in all_stats or "Value 20" not in all_stats:
+    st.info("Factor data unavailable — Section 4B skipped.")
 
 if "Momentum 30" in all_stats and "Value 20" in all_stats:
     stats_mom = all_stats["Momentum 30"]

@@ -22,24 +22,10 @@ def load_regime_labels() -> pd.DataFrame:
 
 
 @st.cache_data(ttl=3600)
-def load_dashboard_csv() -> pd.DataFrame:
-    """Load full sub-metric dashboard CSV."""
-    return pd.read_csv(DATA_DIR / "dashboard_metrics.csv", parse_dates=["date"], index_col="date")
-
-
-@st.cache_data(ttl=3600)
 def load_nifty_prices() -> pd.Series:
     """Load Nifty 50 close prices from bundled CSV."""
     df = pd.read_csv(DATA_DIR / "nifty50_close.csv", parse_dates=["date"], index_col="date")
     return df["close"] if "close" in df.columns else df.iloc[:, 0]
-
-
-@st.cache_data(ttl=3600)
-def load_nifty_from_duckdb() -> pd.Series:
-    """Load full Nifty 50 prices (all dates, not just regime period) from bundled CSV."""
-    df = pd.read_csv(DATA_DIR / "nifty50_full.csv", parse_dates=["date"])
-    df = df.set_index("date").sort_index()
-    return df["close"]
 
 
 @st.cache_data(ttl=3600)
@@ -152,28 +138,3 @@ def compute_regime_stats(
         })
 
     return pd.DataFrame(rows)
-
-
-def decile_analysis(df: pd.DataFrame, metric_col: str) -> pd.DataFrame:
-    """Bin metric into deciles, compute next-day return stats per decile."""
-    v = df[[metric_col, "fwd_1d"]].dropna()
-    labels = [f"D{i}" for i in range(1, 11)]
-    try:
-        v["D"] = pd.qcut(v[metric_col], 10, labels=labels)
-    except ValueError:
-        v["D"] = pd.qcut(v[metric_col].rank(method="first"), 10, labels=labels)
-
-    agg = (
-        v.groupby("D", observed=True)["fwd_1d"]
-        .agg(
-            N="count",
-            avg_return="mean",
-            median_return="median",
-            std="std",
-            hit_rate=lambda x: (x > 0).mean(),
-        )
-        .reset_index()
-    )
-    agg.rename(columns={"D": "Decile"}, inplace=True)
-    agg["avg_metric"] = v.groupby("D", observed=True)[metric_col].mean().values
-    return agg
